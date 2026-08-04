@@ -1,1 +1,3 @@
 /index.php / 301
+/canada-ca/* /pacific-spin-ca/:splat 301
+/en-CA/* /pacific-spin-ca/:splat 301
