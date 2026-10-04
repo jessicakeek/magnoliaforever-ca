@@ -306,6 +306,8 @@ img {
     display: flex;
     flex-shrink: 0;
     gap: 16px;
+    
+    min-width: 0;
 }
 
 .main-nav-content-center-136f66f3 {
